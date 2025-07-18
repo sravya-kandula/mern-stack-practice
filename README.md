@@ -1,0 +1,2 @@
+- `fir.html` – Basic HTML file for frontend structure
+- Future files will include React components and backend code
